@@ -1,4 +1,3 @@
-# DecodeLabs-Task-1-Data-Cleaning-and-Preparation
 # 🧹 DecodeLabs Internship - Week 1: Data Cleaning & Preparation
 
 ## 📌 Project Overview
